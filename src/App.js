@@ -1,5 +1,5 @@
 import './App.css';
-import EjercicioAfter from './components/EjercicioAfter';
+import EjercicioAfter from './components/ejercicioAfter/EjercicioAfter';
 
 
 function App() {
